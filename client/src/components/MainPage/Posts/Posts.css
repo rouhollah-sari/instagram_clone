@@ -1,0 +1,12 @@
+.profile-image{
+    vertical-align: middle;
+    Width:30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.image{
+    width:450px;
+    height: 450px;
+    object-fit: fill;
+}
+

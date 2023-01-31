@@ -1,0 +1,26 @@
+.emojibtn{
+    background-color: white;
+    border:none;
+    vertical-align: middle;
+}
+
+.Postbtn{
+  
+    background-color: white;
+    border:none;
+    color: #0a95ff;
+    font-weight: 750;
+    font-size: 14px;
+}
+
+.comments-div{
+    display: flex;
+    justify-content: left;
+}
+
+.commentsArea{
+    width:80%;
+    border: none;
+
+
+}

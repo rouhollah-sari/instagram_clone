@@ -1,0 +1,147 @@
+
+.main-div-Header{
+    display: flex;
+    justify-content: space-between;
+    
+    
+   
+   
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+}
+
+.InstaImgletter{
+    margin-top: 10px;
+    vertical-align: middle;
+    width:100px;
+    height: 40px;
+   
+}
+
+.SearchArea{
+    margin-top: 10px;
+    height: 32px;
+    width: 220px;
+    background-color:#efefef ;
+    border:none;
+    border-radius: 7px;
+    
+}
+
+
+.Home{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Home.png') no-repeat center;
+
+}
+
+
+.Direct{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Direct.png') no-repeat center;
+
+}
+
+.Post{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Post.png') no-repeat center;
+
+}
+
+.Navigation{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Navi.png') no-repeat center;
+
+}
+.Like{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Like.png') no-repeat center;
+}
+
+.Profilepicture{
+    margin:5px 10px 5px 10px; 
+    width: 40px;
+    height:40px;
+    background-color: white;
+    
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    background: url('../../../public/images/HeaderImages/Like.png') no-repeat center;
+}
+
+
+.PostForm{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(45,165,255);
+    width: 35%;
+    height: 60%;
+    
+    position: fixed;
+    top:20%;
+    left:28%;
+}
+
+.uploadedImage{
+    
+    background-color: rgba(45,165,255);;
+    width: 80%;
+    height: 70%;
+    
+    position: relative;
+    top:0%;
+    left:10%;
+
+}
+
+.postcomment{
+    background-color: white;
+    width: 79%;
+    height: 20%;
+    
+    position: relative;
+    top:0%;
+    left:10%;
+}
+
+.submitbtn{
+    background-color: rgba(45,165,255);
+    width: 20%;
+    height: 10%;
+
+    position: relative;
+    
+    left:80%;
+    
+   
+}

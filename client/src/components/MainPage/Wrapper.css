@@ -1,0 +1,42 @@
+
+.Header{
+  
+    width:1000px;
+    margin:10px auto;
+   
+
+}
+
+.Main-div{
+    display:flex;
+    justify-content: center;
+}
+
+.Stories {
+    width:450px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 1px solid rgb(231, 219, 219);
+    height: 100px;
+}
+
+.Posts{
+    width:450px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 1px solid rgb(231, 219, 219);
+    border-radius: 6px;
+}
+
+.People{
+    width:200px;
+    margin-top: 20px;
+}
+
+
+/****************************************/
+.Stories{
+    display: flex;
+    justify-content:center;
+
+}

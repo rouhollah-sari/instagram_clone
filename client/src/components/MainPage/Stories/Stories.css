@@ -1,0 +1,74 @@
+
+
+
+.username{
+    font-size:xx-small;
+    font-weight: 400;
+    text-align: center;
+    width: 50px;
+    
+}
+
+.Stories-div{
+    
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+       
+        
+        
+        
+       
+
+}
+
+.user-image{
+    margin-top: 14px;
+    vertical-align: middle;
+    Width:50px;
+    height: 50px;
+    border-radius: 50%;
+   
+    
+   
+}
+
+
+.Stories-image{
+
+    position: absolute;
+    Width:33%;
+    height: 60%;
+    
+    
+}
+
+
+.PostForm{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(45,165,255);
+    width: 35%;
+    height: 60%;
+    
+    position: fixed;
+    top:20%;
+    left:28%;
+}
+
+.uploadedImage{
+    
+    background-color: rgba(45,165,255);;
+    width: 80%;
+    height: 70%;
+    
+    position: relative;
+    top:0%;
+    left:10%;
+
+}
+
+.user{
+    position: absolute;
+  
+}
